@@ -10,4 +10,4 @@ print(Fore.BLUE + "Welcome to Hornets InfoTechCenter\n")
 
 sleep(1)
 
-print(Fore.BLUE + "Hornet's Operating System Booting Up'")
+print(Fore.BLUE + "Hornet's Operating System Booting Up")
